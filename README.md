@@ -6,6 +6,6 @@
 | S No.  | Name of Project     | Used Tools and Technologies                                          | Demo of Websites |
 |--------|---------------------|----------------------------------------------------------------------|------------------|
 | 1      | Coffee Shop Website | HMTL, JS, CSS, [Atom](https://atom.io) , [Visual Studio code](https://code.visualstudio.com), [Bootstrap](https://getbootstrap.com),  [Bootstrap Studio](https://bootstrapstudio.io) | [Live Demo](https://cooffee-shop.netlify.app)        |
-| 2      | Travel agency       | HTML, CSS, JS, Atom, Visual Studio Code,  [Swiper Js](https://swiperjs.com)              | [Live demo]()       |
+| 2      | Travel agency       | HTML, CSS, JS, Atom, Visual Studio Code,  [Swiper Js](https://swiperjs.com)              | [Live demo](https://traveel-agency.netlify.app)       |
 
 **This repo is not accepting any  requests as now , it would be avilable to make make changes soon**
